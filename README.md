@@ -5,4 +5,6 @@ Primeiro compile o código com o comando make
 
 ./compacta arquivo
 
-./descompacta arquivo.compac
+./descompacta arquivo.comp
+
+Obs: maior eficiência compactando arquivos de texto.
